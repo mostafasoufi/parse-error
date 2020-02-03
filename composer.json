@@ -1,0 +1,18 @@
+{
+    "name": "mostafa/parse-error",
+    "description": "A PHP class for parsing error",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mostafa Soufi",
+            "email": "mostafa.soufi@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ParseError\\": "src/"
+        }
+    }
+}
